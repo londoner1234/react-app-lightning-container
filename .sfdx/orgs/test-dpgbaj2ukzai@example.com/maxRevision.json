@@ -1,0 +1,35 @@
+{
+  "serverMaxRevisionCounter": 65,
+  "sourceMembers": {
+    "StaticResource__react": {
+      "serverRevisionCounter": 62,
+      "lastRetrievedFromServer": 62,
+      "memberType": "StaticResource",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__reactContainer": {
+      "serverRevisionCounter": 65,
+      "lastRetrievedFromServer": 65,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__reactContainer/reactContainer.cmp": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Account_Record_Page": {
+      "serverRevisionCounter": 60,
+      "lastRetrievedFromServer": 60,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "CustomObject__Account": {
+      "serverRevisionCounter": 61,
+      "lastRetrievedFromServer": 61,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    }
+  }
+}
